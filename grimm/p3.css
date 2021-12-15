@@ -1,0 +1,28 @@
+.cry{
+    text-align: center;
+    background-image: url(img/cry.jpg);
+    background-size:cover;
+    height: 1000px;
+}
+.cry p{
+    width: 100px;
+    margin: auto;
+    margin-top: 100px;
+    word-spacing: 10px;
+}
+.pebbles{
+    text-align: center;
+    background-image: url(img/pebble.jpg);
+    background-size:cover;
+}
+.pebbles p{
+    width: 100px;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    word-spacing: 10px;
+    background-color: aliceblue;
+}
+footer{
+    text-align: center;
+}

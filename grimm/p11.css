@@ -1,0 +1,15 @@
+html{
+    background-color: #000000;
+}
+body{
+    text-align: center;
+    background-image: url(img/pocketgoat.png);
+    background-size:cover;
+}
+p{
+    color: whitesmoke;
+    width: 150px;
+    margin: auto;
+    margin-bottom: 100px;
+    background-color: black;
+}
